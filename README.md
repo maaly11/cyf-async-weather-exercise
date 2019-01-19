@@ -3,6 +3,7 @@
 ## Setup
 
 ```
+git clone https://github.com/mikecoram/cyf-async-weather-exercise.git
 npm install
 ```
 
