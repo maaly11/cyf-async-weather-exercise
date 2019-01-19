@@ -4,6 +4,7 @@
 
 ```
 git clone https://github.com/mikecoram/cyf-async-weather-exercise.git
+cd cyf-async-weather-exercise
 npm install
 ```
 
